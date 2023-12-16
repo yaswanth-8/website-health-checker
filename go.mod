@@ -1,4 +1,4 @@
-module github.com/yaswanth-8
+module github.com/yaswanth-8/website-health-checker
 
 go 1.21.5
 
